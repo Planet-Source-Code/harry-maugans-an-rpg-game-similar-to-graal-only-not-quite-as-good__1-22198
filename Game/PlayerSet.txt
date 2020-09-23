@@ -1,0 +1,2 @@
+"Red Warrior","1-up1.gif","1-up2.gif","1-down1.gif","1-down2.gif","1-right1.gif","1-right2.gif","1-left1.gif","1-left2.gif","TestGuy_Dead.gif"
+"Blue Warrior","2-up1.gif","2-up2.gif","2-down1.gif","2-down2.gif","2-right1.gif","2-right2.gif","2-left1.gif","2-left2.gif","TestGuy_Dead.gif"

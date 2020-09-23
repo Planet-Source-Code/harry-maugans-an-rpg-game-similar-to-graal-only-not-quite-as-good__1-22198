@@ -1,0 +1,2 @@
+"Newbie-Shield","Common","1","",""
+"K-Shield","Uncommon","12","Kshield.gif","KshieldFront.gif"

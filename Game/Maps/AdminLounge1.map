@@ -1,0 +1,59 @@
+20
+14
+"Admin Lounge"
+
+ 3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3
+ 3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3
+ 3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3
+ 3,3,3,4,32,32,32,32,32,32,4,32,32,32,32,32,32,4,3,3
+ 3,3,3,4,32,36,36,36,36,32,4,32,36,36,36,36,32,4,3,3
+ 3,3,3,4,32,36,36,36,36,32,4,32,36,36,36,36,32,4,3,3
+ 3,3,3,4,32,36,36,36,36,32,4,32,36,36,36,36,32,4,3,3
+ 3,3,3,4,32,36,36,36,36,32,4,32,36,36,36,36,32,4,3,3
+ 3,3,3,4,32,36,36,36,36,32,4,32,36,36,36,36,32,4,3,3
+ 3,3,3,4,32,36,36,36,36,32,4,32,36,36,36,36,32,4,3,3
+ 3,3,3,4,29,32,4,32,32,32,4,32,32,32,4,32,29,4,3,3
+ 3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3
+ 3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3
+ 3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3
+*WARP*
+4,14,Outside4.map,4,1
+5,14,Outside4.map,5,1
+6,14,Outside4.map,6,1
+7,14,Outside4.map,7,1
+8,14,Outside4.map,8,1
+9,14,Outside4.map,9,1
+10,14,Outside4.map,10,1
+11,14,Outside4.map,11,1
+12,14,Outside4.map,12,1
+13,14,Outside4.map,13,1
+14,14,Outside4.map,14,1
+15,14,Outside4.map,15,1
+16,14,Outside4.map,16,1
+17,14,Outside4.map,17,1
+18,14,Outside4.map,18,1
+4,1,AdminLounge2.map,4,14
+5,1,AdminLounge2.map,5,14
+6,1,AdminLounge2.map,6,14
+7,1,AdminLounge2.map,7,14
+8,1,AdminLounge2.map,8,14
+9,1,AdminLounge2.map,9,14
+10,1,AdminLounge2.map,10,14
+11,1,AdminLounge2.map,11,14
+12,1,AdminLounge2.map,12,14
+13,1,AdminLounge2.map,13,14
+14,1,AdminLounge2.map,14,14
+15,1,AdminLounge2.map,15,14
+16,1,AdminLounge2.map,16,14
+17,1,AdminLounge2.map,17,14
+18,1,AdminLounge2.map,18,14
+*NPC*
+*SIGNS*
+5,11,This is the very first bad guy.  it is still being tested, so cutting the bush to get in could seriously mess up your account.
+17,11,This is an empty cell for future bad guys i might make.
+*GOLD*
+*ARROWS*
+*BOMBS*
+*BUSHES*
+7,11
+15,11

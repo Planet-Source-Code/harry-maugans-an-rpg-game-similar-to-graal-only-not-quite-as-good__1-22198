@@ -1,0 +1,1 @@
+Bow,Bow.npc,Bow.gif,8,4,26,27

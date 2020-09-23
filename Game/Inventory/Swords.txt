@@ -1,0 +1,1 @@
+"Newbie-Sword","Common","1","Newbie-Sword.gif","NewbieUp_Sword.gif","NewbieDown_Sword.gif","NewbieRight_Sword.gif","NewbieLeft_Sword.gif"

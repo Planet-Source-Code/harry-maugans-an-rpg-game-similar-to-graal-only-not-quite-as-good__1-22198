@@ -1,0 +1,2 @@
+"Newbie-Armor","Common","1","",""
+"Stone-Armor","Rare","50","",""
