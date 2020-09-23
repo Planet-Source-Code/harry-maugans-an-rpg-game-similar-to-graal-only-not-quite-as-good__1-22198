@@ -1,0 +1,12 @@
+PlayerTouchMe(
+Player.Priviledges = Normal(
+say "You are not an admin, so if you cross that line, you will be jailed."
+Me.Visible = False
+)
+)
+PlayerTouchMe(
+Player.Priviledges = Admin(
+say "You are an admin, so if you cross that line, you will not be jailed, like the non-admins are."
+Me.Visible = False
+)
+)

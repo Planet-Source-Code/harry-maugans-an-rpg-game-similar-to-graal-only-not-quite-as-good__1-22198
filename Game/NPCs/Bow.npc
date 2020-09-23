@@ -1,0 +1,4 @@
+PlayerTouchMe(
+AddWeapon Bow,Bow.gif,Bow.wpn
+Me.Visible = False
+)

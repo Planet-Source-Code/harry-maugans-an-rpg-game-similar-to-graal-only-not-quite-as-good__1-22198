@@ -1,0 +1,14 @@
+PlayerTouchMe(
+Player.Priviledges = Admin(
+Say "Welcome To The Admin Lounge!"
+Me.Visible = False
+)
+)
+PlayerTouchMe(
+Player.Priviledges = Normal(
+Me.Direction = Down
+AddTextToSign Outside4.map,14,6,", "
+AddTextToSign Outside4.map,14,6,Player.Name
+Warp 5,5,Jail.map
+)
+)

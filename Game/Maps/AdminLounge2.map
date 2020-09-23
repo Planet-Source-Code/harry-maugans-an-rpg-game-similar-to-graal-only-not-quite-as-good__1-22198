@@ -1,0 +1,54 @@
+20
+14
+"Admin Lounge"
+
+ 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+ 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+ 3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,3
+ 3,3,3,30,30,30,4,30,30,30,4,30,30,30,4,30,30,30,3,3
+ 3,3,3,29,27,30,4,29,27,30,4,29,27,30,4,29,27,30,3,3
+ 3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3
+ 3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3
+ 3,3,3,30,30,30,4,30,30,30,4,30,30,30,4,30,30,30,3,3
+ 3,3,3,29,27,30,4,29,27,30,4,29,27,30,4,29,27,30,3,3
+ 3,3,3,4,4,4,4,4,4,8,4,4,4,8,4,4,4,8,3,3
+ 3,3,3,4,4,11,10,12,4,4,4,4,4,4,4,4,4,4,3,3
+ 3,3,3,4,4,13,29,14,4,4,4,4,4,4,4,4,4,4,3,3
+ 3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3
+ 3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3
+*WARP*
+4,14,AdminLounge1.map,4,1
+5,14,AdminLounge1.map,5,1
+6,14,AdminLounge1.map,6,1
+7,14,AdminLounge1.map,7,1
+8,14,AdminLounge1.map,8,1
+9,14,AdminLounge1.map,9,1
+10,14,AdminLounge1.map,10,1
+11,14,AdminLounge1.map,11,1
+12,14,AdminLounge1.map,12,1
+13,14,AdminLounge1.map,13,1
+14,14,AdminLounge1.map,14,1
+15,14,AdminLounge1.map,15,1
+16,14,AdminLounge1.map,16,1
+17,14,AdminLounge1.map,17,1
+18,14,AdminLounge1.map,18,1
+*NPC*
+Bow,Bow.npc,Bow.gif,8,4,31,31
+*SIGNS*
+8,5,This item is soon to be the original bow (for arrows).
+12,5,This is the gold.  Still testing it....but it seems to work fine.
+7,12,This area is where we are going to test any new NPCs.  Before an item can be added into a level
+4,5,This item here is the bush.  Yes, the bush.  It is actually a very complicated script and is still undergoing testing.
+16,5,This is the Arrows.  You touch it and it gives you a specified ammount, in the map source, of arrows. They sometimes come out of bushes (when i fix it) or they are just laying around.
+4,9,This is the bomb.  Pick it up to get a specified ammount of bombs.  (still being tested)
+8,9,This is the future warp ring.
+12,9,This is the future blow dart.  The same as a bow, only different power and pic.
+16,9,This is gonna be a testing place for lockets. They are gonna be able to be equipted in your inventory in like version 4.0
+*GOLD*
+13,5,100
+*ARROWS*
+17,5,2
+*BOMBS*
+5,9,4
+*BUSHES*
+5,5

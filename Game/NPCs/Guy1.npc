@@ -1,0 +1,4 @@
+PlayerTouchMe(
+Say "Welcome!"
+Me.Visible = False
+)
